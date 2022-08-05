@@ -1,11 +1,3 @@
-## Getting Started
-
-- Open your terminal, move to the directory where you want to clone the app (i.e cd Documents)
-- Enter git clone https://github.com/GOlivierNation/oop_school_library.git
-- Change to the directory you just clone into (i.e cd  oop_school_library)
-- Include any possible changes and run "git add ."
-- Commit the changes with a descriptive message (i.e xyz features added)
-- Push the changes to changes to the repository (i.e git push)
 
 
 ### Prerequisites
