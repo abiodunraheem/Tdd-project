@@ -1,5 +1,5 @@
 # TDD
-In this project, you will learn how to do unit testing.
+In this project, you will learn how to do unit testing
 
 ## Getting Started
 
