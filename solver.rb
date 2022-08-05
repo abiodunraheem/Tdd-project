@@ -24,6 +24,5 @@ class Solver
     else
       num.to_s
     end
-    puts fizz_buzz
   end
 end
